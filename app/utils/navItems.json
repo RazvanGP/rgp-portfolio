@@ -1,0 +1,6 @@
+[
+  { "name": "About", "href": "aboutSection" },
+  { "name": "Tools and Technologies", "href": "toolsAndTechnologies" },
+  { "name": "Projects", "href": "projects" },
+  { "name": "Contact", "href": "contact" }
+]

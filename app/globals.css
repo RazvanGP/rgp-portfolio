@@ -1,3 +1,9 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@layer components {
+  .home-section {
+    @apply h-screen w-screen border-2 flex items-center justify-center;
+  }
+}
